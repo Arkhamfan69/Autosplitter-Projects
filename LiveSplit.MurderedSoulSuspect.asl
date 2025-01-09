@@ -13,7 +13,7 @@ init
 
 startup
 {
-    settings.Add("MSS", true, "Murered: Soul Suspect");
+    settings.Add("MSS", true, "Murdered: Soul Suspect");
         settings.Add("ANY", true, "Any% Splits", "MSS");
             settings.Add("ep02_000_HubInAll_m-sb", true, "Alleyways", "ANY");
             settings.Add("ep02_090_GruntForeshadow_l-sb-2b", true, "Crime Scene", "ANY");
